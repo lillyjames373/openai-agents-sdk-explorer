@@ -6,6 +6,10 @@ A curated exploration of the OpenAI Agents SDK - features, examples, and documen
 
 The OpenAI Agents SDK is a toolkit designed to simplify the creation and coordination of AI agents. This repository serves as a guide to understanding and utilizing the key components of the SDK.
 
+## Quick Start
+
+Get started quickly with our [Quickstart Example](docs/quickstart-example.md) that shows how to create and run simple agents.
+
 ## Key Components
 
 ### Core Components
@@ -28,6 +32,7 @@ The OpenAI Agents SDK is a toolkit designed to simplify the creation and coordin
 
 ## Documentation
 
+- [**Quickstart Example**](docs/quickstart-example.md) - Get started quickly with simple examples
 - [**SDK Component Summary**](docs/agents-sdk-summary.md) - A comprehensive overview of all SDK components
 - [**Handoffs Guide**](docs/handoffs-guide.md) - Detailed guide on implementing agent handoffs
 - [**Tools Guide**](docs/tools-guide.md) - Complete guide to creating and using tools
@@ -47,9 +52,11 @@ To get started with the OpenAI Agents SDK:
    pip install openai-agents
    ```
 
-2. Explore the documentation in this repository to understand the key concepts.
+2. Try the [Quickstart Example](docs/quickstart-example.md) to create your first agent.
 
-3. Check out the [example multi-agent system](docs/example-multi-agent-system.md) for a practical implementation.
+3. Explore the documentation in this repository to understand the key concepts.
+
+4. Check out the [Multi-Agent System Example](docs/example-multi-agent-system.md) for a more advanced implementation.
 
 ## Key Features
 
