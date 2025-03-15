@@ -30,6 +30,10 @@ Get started quickly with our [Quickstart Example](docs/quickstart-example.md) th
 - **[Guardrails](docs/guardrails-guide.md)** - Safety and control mechanisms for agent behavior.
 - **Model Settings** - Configuring underlying models.
 
+### Integrations
+
+- **[Web Search](docs/web-search-integration.md)** - Integrating OpenAI's web search capability with agents.
+
 ## Documentation
 
 - [**Quickstart Example**](docs/quickstart-example.md) - Get started quickly with simple examples
@@ -38,6 +42,7 @@ Get started quickly with our [Quickstart Example](docs/quickstart-example.md) th
 - [**Tools Guide**](docs/tools-guide.md) - Complete guide to creating and using tools
 - [**Tracing Guide**](docs/tracing-guide.md) - In-depth explanation of the tracing system
 - [**Guardrails Guide**](docs/guardrails-guide.md) - Guide to implementing safety and control mechanisms
+- [**Web Search Integration**](docs/web-search-integration.md) - How to create agents that can search the web
 
 ## Examples
 
@@ -67,8 +72,10 @@ To get started with the OpenAI Agents SDK:
 - **Comprehensive Tracing**: Monitor and debug agent interactions
 - **Streaming Support**: Process agent outputs in real-time
 - **Context Management**: Maintain state across agent interactions
+- **Web Search**: Access up-to-date information from the internet
 
 ## Resources
 
 - [Official OpenAI Agents SDK Documentation](https://openai.github.io/openai-agents-python/)
 - [GitHub Repository](https://github.com/openai/openai-agents-python)
+- [OpenAI API Documentation](https://platform.openai.com/docs/api-reference)
